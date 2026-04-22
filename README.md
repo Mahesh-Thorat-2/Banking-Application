@@ -1,0 +1,1 @@
+Build a Banking Application to manage customer accounts, transactions, and basic banking operations. The system allows users to create accounts, deposit and withdraw money, check balance, and view transaction history in a secure and efficient way
